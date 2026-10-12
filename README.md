@@ -49,3 +49,7 @@ Data: [Bank Marketing dataset](https://archive.ics.uci.edu/dataset/222/bank+mark
 pip install -r requirements.txt
 jupyter notebook bank_marketing.ipynb
 ```
+
+---
+
+More projects on my portfolio: [anaisferreira.github.io/Personal-website](https://anaisferreira.github.io/Personal-website/)
